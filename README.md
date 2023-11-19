@@ -5,7 +5,7 @@
 
 Welcome to my coding realm! I'm Dinesh, a dynamic DevOps engineer with a passion for driving innovation and cloud-centric solutions.
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavrickdin)
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavrickdin&theme=transparent&show_icons=true)
 
 
 ## 📬 Let's Connect!
