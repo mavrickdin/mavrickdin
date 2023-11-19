@@ -1,9 +1,13 @@
 # Hey, 👋 I'm Dinesh
-<img width=150 src="https://github.com/mavrickdin/mavrickdin/blob/main/Image.gif" alt='Side Image' width=500 align=right />
+
+<img width=300 src="https://github.com/mavrickdin/mavrickdin/blob/main/Image.gif" alt='Side Image'  align=right />
 
 ### Cloud Developer | Innovation Evangelist
 
 Welcome to my coding realm! I'm Dinesh, a dynamic DevOps engineer with a passion for driving innovation and cloud-centric solutions.
+
+
+
 ## 🧰 Languages and Tools:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" height="40" style="vertical-align:top; margin:4px">
@@ -13,6 +17,8 @@ Welcome to my coding realm! I'm Dinesh, a dynamic DevOps engineer with a passion
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavrickdin&theme=transparent&show_icons=true)
 
